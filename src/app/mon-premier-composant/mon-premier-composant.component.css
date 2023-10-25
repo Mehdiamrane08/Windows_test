@@ -1,0 +1,8 @@
+.first_component{
+    background-color: aqua;
+}
+
+.first_component > h1 {
+    color: red;
+    font-size: large;
+}
